@@ -4,4 +4,16 @@
   <artifactId>jenkinsPractise</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>jenkinsPractise</name>
+  
+   
+  <dependencies>
+  	<!-- https://mvnrepository.com/artifact/org.testng/testng -->
+		<dependency>
+			<groupId>org.testng</groupId>
+			<artifactId>testng</artifactId>
+			<version>7.8.0</version>
+		</dependency>
+
+   </dependencies>
+  
 </project>
